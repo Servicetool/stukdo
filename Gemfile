@@ -59,3 +59,5 @@ gem 'simple_form'
 gem 'devise'
 #bcrypt for devise
 gem 'bcrypt', platforms: :ruby
+#auto html 
+gem 'auto_html', '~> 1.6'
